@@ -8,9 +8,9 @@ Our goal is to perform experiments to compare their performance for channel esti
 ## How to use this repository 
 Install the dataset ChanEst in HDF5 (.h5) format. 
 ### Structure
-CNN module - cnn.py
-MLP module - multiLayerPerceptron.py
-Data processing module - data_processing.py
+CNN module - cnn.py\
+MLP module - multiLayerPerceptron.py\
+Data processing module - data_processing.py\
 main.py
 ### Requirements 
 Install the requirements as follows:
