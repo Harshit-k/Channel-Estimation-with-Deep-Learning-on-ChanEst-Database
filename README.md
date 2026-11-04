@@ -1,9 +1,9 @@
 # Channel Estimation using Deep Learning
-Course Project - Deep Learning 
-Here we use the dataset ChanEst - https://data.mendeley.com/datasets/8w3zjj8hzc/1.
-The goal of the first experiment is to implement two models to learn channel estimation on this dataset.
+Course Project - Deep Learning\
+Here we use the dataset ChanEst - https://data.mendeley.com/datasets/8w3zjj8hzc/1.\
+The goal of the first experiment is to implement two models to learn channel estimation on this dataset.\
 1. MLP - Multi-layer Perceptron
-2. CNN - Convolutional Neural Network
+2. CNN - Convolutional Neural Network\
 Our goal is to perform experiments to compare their performance for channel estimation by varying hyperparameters and computing a few selected metrics.
 ## How to use this repository 
 Install the dataset ChanEst in HDF5 (.h5) format. 
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ### Data Processing module
 It has functions defined for extracting data from the .h5 file and a function for splitting data into train and test sets.
 ### CNN and MLP module
-Each of them have functions defined for model design, training and evaluation.
+Each of them have functions defined for model design, training and evaluation.\
 For evaluation only MSE, NMSE and Cross-Entropy loss have been implemented yet.
 ### Running the main method
 1. Before running the main method re-assign the file paths according to your PC. 
