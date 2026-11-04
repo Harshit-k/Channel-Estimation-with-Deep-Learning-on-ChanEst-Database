@@ -1,7 +1,7 @@
 # Channel Estimation using Deep Learning
 Course Project - Deep Learning (CentraleSupélec)\
 Here we use the dataset ChanEst - https://data.mendeley.com/datasets/8w3zjj8hzc/1.\
-The goal of the first experiment is to implement two models to learn channel estimation on this dataset.\
+The goal of the first experiment is to implement two models to learn channel estimation on this dataset.
 1. MLP - Multi-layer Perceptron
 2. CNN - Convolutional Neural Network\
 Our goal is to perform experiments to compare their performance for channel estimation by varying hyperparameters and computing a few selected metrics.
